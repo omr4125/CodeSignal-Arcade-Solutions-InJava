@@ -1,1 +1,0 @@
-# CodeSignal-Arcade-Solutions-InJava
