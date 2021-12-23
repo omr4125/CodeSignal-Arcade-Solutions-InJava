@@ -20,3 +20,11 @@ ChessBoardCellColor: Given two cells on the standard chess board, determine whet
 
 ChessKnight: Given a position of a knight on the standard chessboard, find the number of different moves the knight can perform.The knight can move to a square that is two squares horizontally and one square vertically, or two squares vertically and one square horizontally away from it. The complete move therefore looks like the letter L. Check out the image below to see all valid moves for a knight piece that is placed on one of the central squares.
 
+CommonChracterCount: Given two strings, find the number of common characters between them.
+
+DeleteDigit: Given some integer, find the maximal number you can obtain by deleting exactly one digit of the given number.
+
+DifferentSquares; Given a rectangular matrix containing only digits, calculate the number of different 2 × 2 squares in it.
+
+DigitDegree: Let's define digit degree of some positive integer as the number of times we need to replace this number with the sum of its digits until we get to a one digit number.Given an integer, find its digit degree.
+
