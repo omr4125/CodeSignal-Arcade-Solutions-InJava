@@ -28,3 +28,10 @@ DifferentSquares; Given a rectangular matrix containing only digits, calculate t
 
 DigitDegree: Let's define digit degree of some positive integer as the number of times we need to replace this number with the sum of its digits until we get to a one digit number.Given an integer, find its digit degree.
 
+DigitsProduct: Given an integer product, find the smallest positive (i.e. greater than 0) integer the product of whose digits is equal to product. If there is no such integer, return -1 instead.
+Example
+For product = 12, the output should be
+solution(product) = 26;
+For product = 19, the output should be
+solution(product) = -1.
+
